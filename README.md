@@ -15,3 +15,6 @@ I have little to no previous experience in programming.
 
 -Kimver  
 '''
+
+DataCamp: Introduction to Python Certificate
+[DeCastro_Certificate.pdf](https://github.com/user-attachments/files/16775746/DeCastro_Certificate.pdf)
